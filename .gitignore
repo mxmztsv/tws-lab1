@@ -4,7 +4,6 @@
 
 ### IntelliJ IDEA ###
 **/.idea/
-out/
 **/out/
 
-cli/src/main/java/ru/mxmztsv/app
+**/app
